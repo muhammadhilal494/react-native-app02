@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
         flex: 1, // Make the container fill the screen
         justifyContent: 'center', // Push content to the bottom
         alignItems: 'center', // Align content to the right
-        backgroundColor: '#f8f8f8', // Light gray background color
+        backgroundColor: '#808080', // Light gray background color
     },
     whiteText: {
         color: '#FFFFFF',
